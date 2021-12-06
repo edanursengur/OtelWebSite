@@ -1,0 +1,17 @@
+.navbar a{
+color: #fff;
+
+}
+.navbar .navbar-header-2 a{
+    color: black;
+    padding: 7px;
+    
+}
+a, p{
+    
+    font-family: 'Muli',sans-serif;
+}
+img:hover{
+    transform: scale(.95);
+    transition: .8s;
+}
